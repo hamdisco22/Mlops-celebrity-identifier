@@ -6,7 +6,7 @@ with open("requirements.txt") as f:
 setup(
     name="Celebrity Detector and QA",
     version="0.1",
-    author="Sudhanshu",
+    author="Hamdi",
     packages=find_packages(),
     install_requires = requirements,
 )
