@@ -40,4 +40,17 @@ This project demonstrates how **computer vision, large language models, and MLOp
 - Dark/light mode support
 - Interactive components and professional dashboard layout
 
+
+ ###  Deployment & MLOps
+
+This project is built with production and MLOps best practices in mind.
+
+Docker: Both backend (Flask) and frontend (Next.js) are containerized for reproducible environments and easy deployment.
+
+CircleCI: CI/CD-ready pipeline for automated builds, testing, and Docker image creation on every code change.
+
+Kubernetes: Designed for cloud-native deployment with scalable, fault-tolerant services and rolling updates.
+
+The architecture supports model versioning, monitoring, and continuous delivery, making it suitable for real-world ML systems and MLOps demonstrations.
+
 ---
