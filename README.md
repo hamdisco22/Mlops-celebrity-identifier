@@ -4,6 +4,10 @@ An end-to-end **MLOps-powered celebrity identification platform** that detects f
 
 This project demonstrates how **computer vision, large language models, and MLOps principles** can be combined into a production-ready AI system.
 
+
+![ ](https://github.com/hamdisco22/Mlops-celebrity-identifier/blob/4bf04e7fa7bfcdd7ff6b9e04ba957a23d47b4b83/templates/Celebrity%20Identifier-1.png)
+![ ](https://github.com/hamdisco22/Mlops-celebrity-identifier/blob/4bf04e7fa7bfcdd7ff6b9e04ba957a23d47b4b83/templates/Celebrity%20Identifier-2.png)
+
 ---
 
 ##  Key Features
